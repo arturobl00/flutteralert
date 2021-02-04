@@ -22,7 +22,7 @@ class _MyDialogState extends State<MyDialog> {
           onPressed: () {
             precionaSi();
           },
-          child: Text("Si"),
+          child: Text("Yes"),
         ),
         FlatButton(
           onPressed: () {
